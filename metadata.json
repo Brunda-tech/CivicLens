@@ -1,0 +1,6 @@
+{
+  "name": "CivicLens",
+  "description": "AI-Powered Smart Citizen Complaint Management System converting unstructured multilingual and photo-backed citizen reports into prioritized, department-routed municipal tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
